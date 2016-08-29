@@ -1,0 +1,29 @@
+{
+  "name": "pizza-express",
+  "version": "1.0.0",
+  "description": "A place to admire pizzas",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robbiejaeger/pizza-express.git"
+  },
+  "keywords": [
+    "express",
+    "pizza"
+  ],
+  "author": "Robbie Jaeger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robbiejaeger/pizza-express/issues"
+  },
+  "homepage": "https://github.com/robbiejaeger/pizza-express#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  }
+}
